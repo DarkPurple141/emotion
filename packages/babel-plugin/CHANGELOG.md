@@ -1,5 +1,17 @@
 # @emotion/babel-plugin
 
+## 11.0.0-next.13
+
+### Minor Changes
+
+- [`5e803106`](https://github.com/emotion-js/emotion/commit/5e803106d391b7c036bdf634318b80337a1d9b70) [#1893](https://github.com/emotion-js/emotion/pull/1893) Thanks [@Andarist](https://github.com/Andarist)! - Added support for converting assignment expressions to labels in cases like this:
+
+  ```js
+  styles = css``
+  Timeline.Item = styled.li``
+  Timeline.Item.Anchor = styled.a``
+  ```
+
 ## 11.0.0-next.12
 
 ### Minor Changes

@@ -1,5 +1,13 @@
 # @emotion/react
 
+## 11.0.0-next.13
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @emotion/server@11.0.0-next.13
+  - @emotion/styled@11.0.0-next.13
+
 ## 11.0.0-next.12
 
 ### Major Changes
